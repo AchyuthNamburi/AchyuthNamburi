@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="./assets/agent-network.svg" width="100%"/>
+<img src="./agent-network.svg" width="100%"/>
 
 </div>
 
