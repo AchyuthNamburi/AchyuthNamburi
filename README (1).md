@@ -152,69 +152,60 @@ Contributing to and maintaining developer tooling
 <br/>
 <br/>
 
-## Featured Projects
-
-<!--
-  EDIT ZONE — replace the four blocks below whenever your project lineup changes.
-  Each block is self-contained: title, one-line pitch, stack badges, and links.
-  Keep the table structure; only swap the text/links/badges inside the <td> cells.
--->
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### [Project Name One](https://github.com/AchyuthNamburi/REPO_NAME)
-Short, outcome-focused one-line description of what it does and why it matters.
+### [AI-Based Differentiation of ARDS vs PCE](https://github.com/AchyuthNamburi/AI-Based-Differentiation-of-ARDS-vs-PCE)
 
-<img src="https://img.shields.io/badge/LangGraph-312E81?style=flat-square"/>
+Deep learning framework for differentiating ARDS and Pulmonary Cardiogenic Edema from lung ultrasound images using CNNs and explainable AI techniques.
+
 <img src="https://img.shields.io/badge/Python-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-312E81?style=flat-square"/>
 
 </td>
+
 <td width="50%" valign="top">
 
-### [Project Name Two](https://github.com/AchyuthNamburi/REPO_NAME)
-Short, outcome-focused one-line description of what it does and why it matters.
+### [Colorectal Polyp Detection & Segmentation](https://github.com/AchyuthNamburi/AchyuthNamburi-Colorectal-Polyp-Detection-and-Segmentation)
 
-<img src="https://img.shields.io/badge/RAG-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/VectorDB-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM-312E81?style=flat-square"/>
+Attention U-Net with MobileNetV2 encoder for automated colorectal polyp segmentation using medical image datasets.
+
+<img src="https://img.shields.io/badge/Python-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/U--Net-312E81?style=flat-square"/>
 
 </td>
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### [Project Name Three](https://github.com/AchyuthNamburi/REPO_NAME)
-Short, outcome-focused one-line description of what it does and why it matters.
+### [AI Resume Screener](https://github.com/AchyuthNamburi/ai-resume-screener)
 
-<img src="https://img.shields.io/badge/Distributed%20Systems-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/Java-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-312E81?style=flat-square"/>
+LLM-powered resume analysis system that evaluates resumes against job descriptions and provides intelligent candidate insights.
+
+<img src="https://img.shields.io/badge/LangChain-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-312E81?style=flat-square"/>
 
 </td>
+
 <td width="50%" valign="top">
 
-### [Project Name Four](https://github.com/AchyuthNamburi/REPO_NAME)
-Short, outcome-focused one-line description of what it does and why it matters.
+### [CodeRoom](https://github.com/AchyuthNamburi/CodeRoom)
 
-<img src="https://img.shields.io/badge/Computer%20Vision-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyTorch-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenCV-312E81?style=flat-square"/>
+Collaborative real-time coding platform featuring synchronized code editing, execution, and multi-user collaboration.
+
+<img src="https://img.shields.io/badge/JavaScript-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-312E81?style=flat-square"/>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-*More on my <a href="https://github.com/AchyuthNamburi?tab=repositories">pinned repositories →</a>*
-
-</div>
-
-<br/>
-
 ## GitHub Statistics
 
 <div align="center">
