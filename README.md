@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6D28D9&height=200&section=header&text=Achyuth%20Namburi&fontSize=46&fontColor=E5E7EB&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=58&descSize=18&descColor=A5B4FC" width="100%"/>
+<img src="./banner.png" width="100%"/>
 
 <br/>
 
